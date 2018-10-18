@@ -1,5 +1,11 @@
 #!/bin/bash
+git pull
+java -jar WoWLogsUpdater.jar
 git add Interface/AddOns/WoWLogsDB/WoWLogsDB.lua
 git commit -m "Test"
 git pull
 git push
+echo "Sleeping for 20 minutes"
+sleep 20m
+
+./serverScript
