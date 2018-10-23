@@ -7868,4 +7868,5 @@ staticdb = {
 	["Pilicious-TarrenMill"] = "10231952000000000000000000000000000",
 	["Bobbingapple-TarrenMill"] = "10231952000084038063037040031000000",
 	["Mat-ChamberofAspects"] = "10231952000000000000000000000000000",
+	["Tyroun-Frostwolf"] = "10232012000024036039037047031000000",
 }print("Shared DB loaded!")
