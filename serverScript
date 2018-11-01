@@ -5,12 +5,6 @@ git add Interface/AddOns/WoWLogsDB/WoWLogsDB.lua
 git commit -m "Test"
 git pull --no-edit
 git push
-echo "Sleeping for 20 minutes"
-sleep 5m
-echo "Sleeping for 15 minutes"
-sleep 5m
-echo "Sleeping for 10 minutes"
-sleep 5m
 echo "Sleeping for 5 minutes"
 sleep 5m
 
