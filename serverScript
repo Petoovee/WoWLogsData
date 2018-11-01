@@ -7,5 +7,6 @@ git pull --no-edit
 git push
 echo "Sleeping for 5 minutes"
 sleep 5m
+clear
 
 ./serverScript
